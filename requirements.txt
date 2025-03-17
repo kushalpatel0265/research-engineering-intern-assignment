@@ -1,0 +1,10 @@
+streamlit
+pandas
+plotly
+textblob
+networkx
+pyvis
+transformers
+sentence-transformers
+wikipedia
+scikit-learn
