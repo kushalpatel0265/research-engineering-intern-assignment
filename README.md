@@ -1,8 +1,8 @@
 # SimPPL - Social Media Data Analysis Dashboard
 
-**Name :** Kushal Patel
-**Roll No. :** 22BCE255
-**Nirma University**
+- **Name :** Kushal Patel
+- **Roll No. :** 22BCE255
+- **Nirma University**
 
 This project is an interactive dashboard built with Streamlit to analyze and visualize social media data, specifically Reddit data. It is designed to help you explore trends, sentiment, topics, and the connection between online discussions and offline events.
 
