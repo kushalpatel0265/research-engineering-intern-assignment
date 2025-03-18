@@ -8,6 +8,10 @@
 
 This project is an interactive dashboard built with Streamlit to analyze and visualize social media data, specifically Reddit data. It is designed to help you explore trends, sentiment, topics, and the connection between online discussions and offline events.
 
+## Screenshots
+
+(Screenshots/1.png)
+
 ## Table of Contents
 
 - [Overview](#overview)
