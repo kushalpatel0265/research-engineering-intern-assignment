@@ -10,7 +10,8 @@ This project is an interactive dashboard built with Streamlit to analyze and vis
 
 ## Screenshots
 
-![Dashboard Screenshot](Screenshots/1.png)(Screenshots/1.png)(Screenshots/2.png)(Screenshots/3.png)(Screenshots/4.png)(Screenshots/5.png)(Screenshots/6.png)(Screenshots/7.png)(Screenshots/8.png)(Screenshots/9.png)(Screenshots/10.png)(Screenshots/11.png)(Screenshots/12.png)(Screenshots/13.png)(Screenshots/14.png)(Screenshots/15.png)(Screenshots/16.png)(Screenshots/17.png)
+![Dashboard Screenshot](Screenshots/1.png)
+![Dashboard Screenshot](Screenshots/2.png)
 
 ## Table of Contents
 
